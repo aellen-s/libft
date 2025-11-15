@@ -3,7 +3,7 @@
 /*                                                        :::      ::::::::   */
 /*   ft_strjoin.c                                       :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: aellen-s <aellen-s@student.42porto.co      +#+  +:+       +#+        */
+/*   By: aellen-s <aellen-s@student.42porto.com>    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2025/10/31 15:52:37 by aellen-s          #+#    #+#             */
 /*   Updated: 2025/10/31 17:00:03 by aellen-s         ###   ########.fr       */
